@@ -1,10 +1,8 @@
 package co.uk.nightshiftgroup.POIBlaster;
 
 public class POIBlaster {
-
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
-	}
+	
+	public static String READ = "R";
+	public static String WRITE = "W";
 
 }
